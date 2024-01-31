@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+body{
+    background-color: gainsboro;
+    height: auto;
+
+}
+
+#kycform{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 50px;
+    padding-top: 0;
+    background-image: url(IMG-20231013-WA0006.jpg);
+}
+
+#first{
+    text-align: center;
+    text-decoration:dotted underline;
+    color: green;
+}
+
+h3{
+    color: red;
+}                                            
